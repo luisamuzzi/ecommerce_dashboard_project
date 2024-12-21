@@ -2,11 +2,11 @@
 
 ### 1. Problema de negócio
 
-Uma empresa de e-commerce B2C quer impulsionar o crescimento de seus negócios. Para isso, busca otimizar suas estratégias de marketing e vendas para se destacar em um mercado competitivo. Com o objetivo de tomar decisões mais embasadas, a empresa coletou dados abrangentes sobre clientes, cupons de desconto, gastos com marketing, vendas online e impostos. 
+O objetivo desse projeto foi analisar dados de vendas e marketing de uma empresa de e-commerce B2C e extrair insights que pudessem impulsionar o crescimento dos negócios por meio da tomada de decisões embasadas em dados. Os dados contêm informações sobre clientes, cupons de desconto, gastos com marketing, vendas online e impostos. 
 
-Você foi contratado para criar soluções de dados para a empresa, mas antes de treinar algoritmos, a necessidade da empresa é ter as principais métricas estratégicas organizadas em uma única ferramenta, para que o CEO possa consultar e conseguir tomar decisões simples, porém importantes.
+A necessidade atual da empresa é ter as principais métricas estratégicas organizadas em uma única ferramenta, para que a área de negócios possa consultar e conseguir tomar decisões simples, porém importantes.
 
-Para acompanhar o crescimento do negócio, o CEO gostaria de ver as seguintes métricas:
+Para acompanhar o crescimento do negócio, foram analisadas as seguintes métricas:
 
 - Receita bruta
 - Ticket médio de compra
@@ -23,7 +23,7 @@ Para acompanhar o crescimento do negócio, o CEO gostaria de ver as seguintes m�
 - Análise RFM
 - Análise de Cohort
 
-Nesse contexto, o objetivo desse projeto é criar um conjunto de gráficos que exibam essas métricas da melhor forma possível para o CEO em um dashboard no Excel. A análise de cohort deve ser exibida em uma aba separada, com os principais insights. Já a análise RFM deve ser apresentada de forma resumida no dashboard. 
+Nesse contexto, foi criado um conjunto de gráficos para exibir essas métricas da melhor forma possível por meio de um dashboard no Excel. A análise de cohort foi exibida em uma aba separada, com os principais insights. Já a análise RFM foi apresentada de forma resumida no dashboard. 
 
 ### 2. Premissas assumidas para a análise
 
@@ -34,7 +34,7 @@ Nesse contexto, o objetivo desse projeto é criar um conjunto de gráficos que e
 
 ### 3. Estratégias da solução
 
-O painel estratégico foi desenvolvido utilizando as métricas pedidas. Assim, foram utilizadas tabelas dinâmicas, filtros e gráficos para obter os resultados esperados, seguindo-se a seguinte estratégia:
+O painel estratégico foi desenvolvido utilizando as métricas descritas acima. Assim, foram utilizadas tabelas dinâmicas, filtros e gráficos para obter os resultados esperados, seguindo-se a seguinte estratégia:
 
 1. Exploração dos dados:
     1. Carregar os conjuntos de dados em um ambiente de análise (Excel);
@@ -72,7 +72,7 @@ Dashboard no Excel com filtros de seleção (região, gênero dos clientes, stat
 
 ### 6. Conclusão
 
-O objetivo desse projeto foi criar um conjunto de gráficos que exibissem as métricas descritas anteriormente da melhor forma possível para o CEO em um dashboard em Excel. Além disso, foi também realizar uma análise RFM e uma análise de cohort.
+O objetivo desse projeto foi criar um conjunto de gráficos que exibissem as métricas descritas anteriormente da melhor forma possível em um dashboard em Excel. Além disso, foi também realizar uma análise RFM e uma análise de cohort.
 
 As principais conclusões sugerem que:
 
